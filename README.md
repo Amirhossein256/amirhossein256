@@ -1,9 +1,9 @@
 ### Hi there 👋
-Hi there! My name is Amirhossein and I am a backend developer with experience in PHP development.
-I have sufficient skills to work with most PHP language frameworks and I am familiar with OOP and clean code concepts.
+Hi there! My name is Amirhossein and I am a backend developer with experience in **PHP development**.\
+I have sufficient skills to work with **most PHP language frameworks** and I am familiar with OOP and clean code concepts.\
 
 
-I am passionate about building scalable and efficient systems that can handle large amounts of data :)
+I am passionate about building scalable and efficient systems that can handle large amounts of data :)\
 Currently, I am expanding my skill set by learning **Python**
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
