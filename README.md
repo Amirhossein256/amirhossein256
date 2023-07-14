@@ -3,7 +3,7 @@
 I have sufficient skills to work with **most PHP language frameworks** and I am familiar with OOP and clean code concepts.
 
 - 🔭 Currently, I am expanding my skill set by learning **Python**
-- ⚡ And finally I am very eager to collaborate on **open-source projects**\
+- ⚡ And finally I am very eager to collaborate on **open-source projects**
 - 🌱 see ya ;)
 
 <div>
