@@ -6,7 +6,10 @@ I have sufficient skills to work with **most PHP language frameworks** and I am 
 I am passionate about building scalable and efficient systems that can handle large amounts of data :)\
 Currently, I am expanding my skill set by learning **Python**
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)\
+
+And finally I am very eager to collaborate on **open-source projects**\
+see ya ;)
 
 <!--
 Here are some ideas to get you started:
